@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am a software engineer with 2 years experience of working in the IT field. Throughout these years I have worked on Mainframe-based applications and legacy application modernization tools like AWS Blu Age. I also have a keen interest in learning cloud-based technologies and got certified in AWS and Azure cloud practitioner skills. My current interests and explorations involve Java, Spring Boot, Javascript, and MySQL technologies. I want to contribute to robust and user-friendly software solutions.
+- 🌱 I’m currently learning -
+- Google Cloud Platform
+- Git and GitHub deep dive
+- Gen AI
+- ⚡ Fun fact: ...
+- I am new here and created this page just now. I'll try to contribute my best to the community. 😄
+  
 <!--
 **AkanshaAbrol/AkanshaAbrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
